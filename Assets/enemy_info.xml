@@ -1,0 +1,17 @@
+<MonsterCollection>
+	<Monsters>
+		<Monster name="a">
+			<min_health>5</min_health>
+			<max_health>10</max_health>
+			<armor>2</armor>
+		</Monster>
+	</Monsters>
+	<Adjectives>
+		<Adjective>Hairy</Adjective>
+		<Adjective>Blind</Adjective>
+		<Adjective>Ancient</Adjective>
+		<Adjective>Gnarly</Adjective>
+		<Adjective>Crazed</Adjective>
+		<Adjective>Dirty</Adjective>
+	</Adjectives>
+</MonsterCollection>
